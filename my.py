@@ -6,4 +6,4 @@
 print("hi")
 print("hi")
 print("give me a sign")
-print("go")
+print("go go")
