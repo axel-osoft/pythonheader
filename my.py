@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# my header
 # Copyright (C) 2020-2022 Blah SA
 # All rights reserved
 # mailto:info AT blah DOT com
